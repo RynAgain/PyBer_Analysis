@@ -12,6 +12,7 @@ The summary DataFrame shows that;
  - This is followed by suburban city type with a medium average fare per driver due to the total number of rides.
  - Urban city types has the lowest fare per driver making the average fare per ride the lowest as compared with the other city types over a four months period in 2019.
 
+![Employee data](Resources/Summary_df.png?raw=true "Employee Data title")
  (screenshot 1)
 
 The multiple-line chart shows that;
@@ -20,6 +21,7 @@ The multiple-line chart shows that;
  - The suburban city type is next to the urban city in terms of hierarchy
  - Peak periods of the month with the highest fares for all city types was seen at the beginning of the last week of February and at the same time, the suburban city type experiences teh highest drop in fare during the last week in february
 
+![Employee data](Resources/Chart.png.png?raw=true "Employee Data title")
  (Chart screen shot)
 
 ## Summary
